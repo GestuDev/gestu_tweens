@@ -1,5 +1,8 @@
 name: gestu_tweens
-description: "A new Flutter package project."
+description: >
+  A Flutter package that provides simple and customizable tween animations for scaling, opacity changes,
+  and sliding transitions. These widgets allow developers to easily add delightful animations to their
+  Flutter applications with minimal code.
 version: 0.0.1
 homepage: https://gestu.dev
 repository: https://github.com/GestuDev/gestu_tweens.git
