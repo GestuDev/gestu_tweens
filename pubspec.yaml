@@ -2,6 +2,7 @@ name: gestu_tweens
 description: "A new Flutter package project."
 version: 0.0.1
 homepage: https://gestu.dev
+repository: https://github.com/GestuDev/gestu_tweens.git
 
 environment:
   sdk: '>=3.4.1 <4.0.0'
